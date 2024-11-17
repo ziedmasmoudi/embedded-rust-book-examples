@@ -6,14 +6,4 @@ This repository contains examples made while following [The Embedded Rust Book](
 
 - Getting Started:
   - [QEMU](getting_started_qemu/README.md)
-
-## License
-
-This template is licensed under either of
-
-- Apache License, Version 2.0 ([LICENSE-APACHE](LICENSE-APACHE) or
-  http://www.apache.org/licenses/LICENSE-2.0)
-
-- MIT license ([LICENSE-MIT](LICENSE-MIT) or http://opensource.org/licenses/MIT)
-
-at your option.
+  - [Hardware](getting_started_hardware/README.md)
