@@ -6,10 +6,11 @@ name = "getting-started-memory-mapped-registers"
 version = "0.1.0"
 
 [dependencies]
-cortex-m = "0.6.0"
-cortex-m-rt = "0.6.10"
+cortex-m = "0.7"
+cortex-m-rt = "0.7"
 cortex-m-semihosting = "0.3.3"
 panic-halt = "0.2.0"
+embedded-hal = "0.2"
 
 # Uncomment for the panic example.
 # panic-itm = "0.4.1"
@@ -22,6 +23,10 @@ panic-halt = "0.2.0"
 # and then use `cargo build --example device` to build it.
 [dependencies.stm32f4]
 version = "0.15.1"
+features = ["stm32f401"]
+
+[dependencies.stm32f4xx-hal]
+version = "0.22.1"
 features = ["stm32f401"]
 
 # this lets you use `cargo fix`!
