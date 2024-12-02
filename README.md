@@ -4,6 +4,7 @@ This repository contains examples made while following [The Embedded Rust Book](
 
 ## Table Of Contents
 
-- Getting Started:
-  - [QEMU](getting_started_qemu/README.md)
-  - [Hardware](getting_started_hardware/README.md)
+- 2. Getting Started:
+  - 2.1. [QEMU](getting-started/qemu/README.md)
+  - 2.2. [Hardware](getting-started/hardware/README.md)
+  - 2.3. [Memory-mapped Registers](getting-started/memory-mapped-registers/README.md)
