@@ -10,3 +10,4 @@ This repository contains examples made while following [The Embedded Rust Book](
   - 2.3. [Memory-mapped Registers](getting-started/memory-mapped-registers/README.md)
   - 2.4. [Semihosting](getting-started/semihosting/README.md)
   - 2.5. [Panicking](getting-started/panicking/README.md)
+  - 2.6. [Exceptions](getting-started/exceptions/README.md)
